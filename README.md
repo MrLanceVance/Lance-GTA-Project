@@ -51,7 +51,7 @@ Slow vehicles can affect performance in missions and makes it longer to reach de
 
 ### Vehicle type 
 
-![]()
+![](https://github.com/MrLanceVance/Lance-GTA-Project/blob/main/Vehicle%20Type.png)
 
 Sports cars are the most available vehicles in GTA V
 
